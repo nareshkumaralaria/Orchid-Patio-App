@@ -1,0 +1,17 @@
+export { default as Footer } from './Footer';
+export { default as Headerbar } from './Headerbar';
+export { default as Home } from './Home';
+export { default as SingleSilder } from './SingleSilder';
+export { default as DoubleSilder } from './DoubleSilder';
+export { default as Signin } from './Signin';
+export { default as Register } from './Register';
+export { default as Forgotpass } from './Forgotpass';
+export { default as Navigation } from './Navigation';
+export { default as Productcard } from './Productcard';
+export { default as Profile } from './Profile';
+export { default as Cart } from './Cart';
+export { default as AddBtn } from './AddBtn';
+export { default as AddWishlistBtn } from './AddWishlistBtn';
+export { default as Coupon } from './Coupon';
+export { default as CalculateShipping } from './CalculateShipping';
+export { default as Product } from '../pages/Product';

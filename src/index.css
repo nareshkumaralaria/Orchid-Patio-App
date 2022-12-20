@@ -1,0 +1,13 @@
+/* menu main style */
+.menu-list a i:last-child {
+  padding-right: 15px;
+}
+
+.menu-list .active-item i:last-child::after {
+  display : none;
+}
+
+.admin-login-card .card-center {
+  max-width: 600px;
+  margin: auto;
+}

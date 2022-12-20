@@ -1,0 +1,156 @@
+/******Home page********/
+
+body.home-page,
+.home-page #page,
+
+.home-page .page-content {
+    background: #fff;
+}
+
+.home-page .top-slider {
+    padding: 10px 0px 20px 0px;
+}
+
+.small-heading {
+    float: left;
+    font-weight: 500;
+    color: #ed5565;
+    padding-left: 10px;
+}
+
+.home-page .splide.slider-dots-under .splide__pagination {
+    bottom: 0px;
+}
+
+.bgc-1 {
+    background-image: url("../images/banners/b4.jpg");
+}
+
+.bgc-2 {
+    background-image: url("../images/banners/b2.jpg");
+}
+
+.bgc-3 {
+    background-image: url("../images/banners/b6.jpg");
+}
+
+.bgc-4 {
+    background-image: url("../images/banners/b4.jpg");
+}
+
+.bgc-6 {
+    background-image: url("../images/banners/b6.jpg");
+}
+
+.bgc-8 {
+    background-image: url("../images/banners/b8.jpg");
+}
+
+
+
+/********category page********/
+.content {
+    margin: 10px 20px;
+}
+
+.card {
+    background-position: center;
+    background-size: cover;
+}
+
+.category-row .col-6 {
+    padding: 2.5px;
+}
+
+.product-card {
+    background: #fff;
+    padding: 5px;
+    border: 1px solid #f7f7f7;
+}
+
+.bi-heart1 {
+    background: #fff;
+    position: absolute;
+    z-index: 9999999;
+    /* padding: 5px; */
+    width: 30px;
+    border-radius: 50%;
+    height: 30px;
+    text-align: center;
+    line-height: 28px;
+    padding-top: 3px;
+    /* right: 5px; */
+    margin-left: 35%;
+    margin-top: 5px;
+}
+
+
+
+.btn-cart1 {
+    float: right;
+    margin-right: 10px;
+    /* margin-top: -5px; */
+    padding: 5px 15px;
+}
+
+/******cart page*********/
+
+.cart-bar {
+    padding: 0px;
+
+}
+
+.cart-bar .row {
+    padding: 0px;
+    margin: 0px;
+}
+
+.cart-bar .row .col-12 {
+    padding: 7.5px;
+    margin: 0px;
+}
+
+.cart-bar .row .col-12 button {
+    width: 100%;
+    height: 100%;
+    margin-top: 0px;
+    border-radius: 0px;
+}
+
+.product-cross {
+    position: absolute;
+    right: 10px;
+    font-size: 18px;
+}
+
+
+.col-6 {
+    padding: 2.5px;
+}
+
+.home-slider .splide__slide .product-card {
+    background: #fff;
+    padding: 0px;
+    border: thin solid #f1f1f1;
+}
+
+.home-slider .splide__slide .product-card .row {
+    padding: 0px 5px;
+}
+
+.slider-boxed .splide__slide {
+    padding: 0px 10px;
+}
+
+.home-slider .splide__slide .product-card .row .col-12 p {
+    margin: 5px 0px;
+}
+
+#footer-bar .btn {
+    margin-top: 0px;
+    height: auto;
+}
+
+.related-products-cart .slider-boxed .splide__slide {
+    padding: 5px;
+}
